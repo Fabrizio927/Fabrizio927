@@ -14,7 +14,7 @@
 ## 📧 Istitutional Unipa account
 - Research account: [fabrizio.traina@unipa.it](mailto:fabrizio.traina@unipa.it) 
 - G Suite account: [fabrizio.traina@community.unipa.it](mailto:fabrizio.traina@community.unipa.it) 
-- Microsoft account: [fabrizio.traina@you.unipa.it](mailto:fabrizio.you@community.unipa.it)
+- Microsoft account: [fabrizio.traina@you.unipa.it](mailto:fabrizio.traina@you.unipa.it)
 
 ## Socialmedia
 - [Linkedin](https://www.linkedin.com/in/fabrizio-traina-994a22160)
