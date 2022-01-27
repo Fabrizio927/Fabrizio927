@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fabrizio927
 - 👷 I'm Civil Engineering civil engineer specializing in Hydraulics
-- 🎓 Postgraduate Researcher of [University of Palermo (Unipa)](https://www.unipa.it/)
+- 🎓 Former Postgraduate Researcher (2021) of [University of Palermo (Unipa)](https://www.unipa.it/)
+- 🎓 PhD Student of [University of Enna "Kore" (Unikore)](https://unikore.it/)
 <!---- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,6 +11,9 @@
 
 ## 📧 Email 
 - Personal e-mail account: [fabrizio.traina93@gmail.com](mailto:fabrizio.traina93@gmail.com)
+
+## 📧 Istitutional Unikore account
+- G Suite account: [fabrizio.traina@unikorestudent.it](mailto:fabrizio.traina@unikorestudent.it) 
 
 ## 📧 Istitutional Unipa account
 - Research account: [fabrizio.traina@unipa.it](mailto:fabrizio.traina@unipa.it) 
