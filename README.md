@@ -10,7 +10,8 @@
 # Contacts
 
 ## 📧 Email 
-- Personal e-mail account: [fabrizio.traina93@gmail.com](mailto:fabrizio.traina93@gmail.com)
+- Personal Gmail account: [fabrizio.traina93@gmail.com](mailto:fabrizio.traina93@gmail.com)
+- Personal Microsoft account: [fabrizio.traina@hotmail.it](mailto:fabrizio.traina@hotmail.it)
 
 ## 📧 Istitutional Unikore account
 - G Suite account: [fabrizio.traina@unikorestudent.it](mailto:fabrizio.traina@unikorestudent.it) 
