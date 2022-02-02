@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fabrizio927
+- 👋 Hi, I’m [@Fabrizio927](https://github.com/Fabrizio927)
 - 👷 I'm Civil Engineering civil engineer specializing in Hydraulics
 - 🎓 Former Postgraduate Researcher (2021) of [University of Palermo (Unipa)](https://www.unipa.it/)
 - 🎓 PhD Student of [University of Enna "Kore" (Unikore)](https://unikore.it/)
