@@ -15,6 +15,8 @@
 
 My [GPG key](GPG-KEYS.MD) valid until May 13, 2025.
 
+My [Publications](Publications.md) 
+
 ## 📧 Istitutional Unikore account
 - G Suite account: [fabrizio.traina@unikorestudent.it](mailto:fabrizio.traina@unikorestudent.it) 
 
